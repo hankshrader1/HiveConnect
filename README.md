@@ -4,8 +4,13 @@ It was meant to be used to connect to hive and make private "games" for competit
 
 The project remains unfinished; however, most of the core is intact.
 
+Features of the core:
+- Bypass Hive Anti VPN
+- API system to store currently used bots, bot status and etc (On my personal version, the API system was linked to a discord bot)
+- Running commands ingame, as well as a packet response system which allows the bot to do functions one at a time (properly and efficiently)
+- Packet logger
+
 Features missing
-- Discord to Hive Connection
 - Kill Tracking
 - Death Tracking
 - Bed Break Tracking
