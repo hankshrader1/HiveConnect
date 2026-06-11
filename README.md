@@ -18,3 +18,6 @@ Features missing
 This was a passion project which I used to have an attempt at learning golang. It is in no way properly built for commercialised usage.
 
 One of my friends aShanki has a new and improved version which works with the same core and principle.
+
+Contributors: 
+[![GitHub Profile](https://github.com)]([https://github.com](https://github.com/Daniel-Ric))
